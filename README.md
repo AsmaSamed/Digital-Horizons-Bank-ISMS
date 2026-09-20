@@ -1,5 +1,5 @@
-# نظام إدارة أمن المعلومات – بنك الآفاق الرقمية
-# Information Security Management System – Digital Horizons Bank
+# محاكاة تطبيق نظام إدارة أمن المعلومات ISMS ISO 27001-2022 – بنك الآفاق الرقمية
+# Information Security Management System – Horizons Bank
 
 
 
